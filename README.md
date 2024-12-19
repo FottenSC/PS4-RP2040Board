@@ -16,6 +16,8 @@ More info:
 
 https://beckystern.com/?p=114849
 
+Sample audio files are from <a href="https://this-museum-is-not-obsolete.com/store-1">This Museum is (Not) Obsolete</a>, used with permission
+
 ### License
 
 If you found this open source design useful, please consider supporting Becky on Patreon: https://www.patreon.com/beckystern
