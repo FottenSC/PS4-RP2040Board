@@ -1,5 +1,5 @@
 # PS4 controller sequencer PCB
- <a href="https://beckystern.com/?p=114849"><img src="assets/image.jpg?raw=true" width="500px"></a>
+ <a href="https://beckystern.com/?p=114849"><img src="assets/image.jpg?raw=true" width="700px"></a>
 
 Bill of materials:<br/>
 1x <a href="https://www.digikey.com/en/products/detail/adafruit-industries-llc/5302/15794634">Adafruit KB2040 board</a><br/>
