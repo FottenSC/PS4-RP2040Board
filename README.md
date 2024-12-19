@@ -1,4 +1,4 @@
-# PS4 controller sequencer PCB
+# PS4 controller sequencer
  <a href="https://beckystern.com/?p=114849"><img src="assets/image.jpg?raw=true" width="700px"></a>
 
 Bill of materials:<br/>
