@@ -1,5 +1,5 @@
 # Project 5001
- <a href="https://beckystern.com/?p=114849"><img src="assets/image.jpg?raw=true" width="700px"></a>
+ <a href=""><img src="assets/boardPicture.PNG?raw=true" width="700px"></a>
 
 
 Bill of materials:<br/>
