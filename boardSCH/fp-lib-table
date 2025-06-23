@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "PS4-sequencer")(type "KiCad")(uri "$(KIPRJMOD)/PS4-sequencer.pretty")(options "")(descr ""))
+  (lib (name "shit")(type "KiCad")(uri "${KIPRJMOD}/shit.pretty")(options "")(descr ""))
+  (lib (name "digikey-footprints")(type "KiCad")(uri "C:/Users/prest/Documents/KiCad/digikey-kicad-library/digikey-footprints.pretty")(options "")(descr ""))
+)
