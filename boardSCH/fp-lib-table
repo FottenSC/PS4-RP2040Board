@@ -3,4 +3,5 @@
   (lib (name "PS4-sequencer")(type "KiCad")(uri "$(KIPRJMOD)/PS4-sequencer.pretty")(options "")(descr ""))
   (lib (name "shit")(type "KiCad")(uri "${KIPRJMOD}/shit.pretty")(options "")(descr ""))
   (lib (name "digikey-footprints")(type "KiCad")(uri "C:/Users/prest/Documents/KiCad/digikey-kicad-library/digikey-footprints.pretty")(options "")(descr ""))
+  (lib (name "ZoeDraw")(type "KiCad")(uri "C:/Users/prest/Desktop/PS4-RP2040Board/footprints")(options "")(descr ""))
 )
